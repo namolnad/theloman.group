@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Businesses for Good",
+    "description": "Focusing on businesses that better the world.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Finding Ways to Improve",
+    "description": "Striving for our properties to always be best-in-class.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "A Helpful Hand",
+    "description": "If you need help, we're here for you.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

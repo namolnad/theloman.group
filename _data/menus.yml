@@ -1,0 +1,21 @@
+main:
+  - name: "About"
+    url: "/About/"
+    weight: 2
+  - name: "Properties"
+    url: "/Properties/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 4
+  - name: "Team"
+    url: "/team/"
+    weight: 3
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2
