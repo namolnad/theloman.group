@@ -1,9 +1,9 @@
 main:
   - name: "About"
-    url: "/About/"
+    url: "/about/"
     weight: 2
   - name: "Properties"
-    url: "/Properties/"
+    url: "/properties/"
     weight: 1
   - name: "Contact"
     url: "/contact/"
